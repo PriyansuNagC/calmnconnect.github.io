@@ -2,7 +2,7 @@
 
 Calm 'n' Connect is website made to calm your nerves down in stressful situations.
 
-link 👉 <[https://subhashreepatra33.github.io/CalmnConnect.github.io/index.html](https://hactivists.github.io/calmnconnect.github.io/)>
+link 👉 <https://hactivists.github.io/calmnconnect.github.io/>
 
 ## Objective
 
