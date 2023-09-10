@@ -16,6 +16,6 @@ This project was made during the event HackOdisha 3.0 (2023). The main objective
 
 ## Contributers
 
-1. @subhashreepatra33
-2. @PriyansuNagC
-3. @AryamanPatra
+1. [subhashreepatra33]<https://github.com/SubhashreePatra33>
+2. [PriyansuNagC]<https://github.com/PriyansuNagC>
+3. [AryamanPatra]<https://github.com/AryamanPatra>
