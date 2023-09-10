@@ -10,7 +10,6 @@ link 👉 <https://hactivists.github.io/calmnconnect.github.io/>
 ## Objective
 
 This project was made during the event HackOdisha 3.0 (2023). The main objective of this project is to promote mental health, with our simple and user friendly UI, users are only just one click away to listen and meditate to 3 theme-based-nature's music.
-
 ## Tech Involved
 
 1. HTML5
