@@ -4,6 +4,9 @@ Calm 'n' Connect is website made to calm your nerves down in stressful situation
 
 link 👉 <https://hactivists.github.io/calmnconnect.github.io/>
 
+![screenshot of website](https://github.com/Hactivists/calmnconnect.github.io/assets/144481104/c08ae308-1787-4482-ba98-d62e4686d557)
+
+
 ## Objective
 
 This project was made during the event HackOdisha 3.0 (2023). The main objective of this project is to promote mental peace, and with our simple UI and being just one click away, users can listen and meditate to 3 handpicked peaceful music related to nature.
