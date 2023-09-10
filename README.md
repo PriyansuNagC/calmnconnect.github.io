@@ -10,7 +10,7 @@ This project was made during the event HackOdisha 3.0 (2023). The main objective
 
 ## Tech Involved
 
-1. HTML 5
+1. HTML5
 2. Vanilla CSS
 3. Javascript
 
